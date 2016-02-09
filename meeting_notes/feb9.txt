@@ -1,0 +1,4 @@
+Yeodrop: a yeoman package to install paradrop
+
+npm install Yeoman-paradrop
+yo paradrop -> generate file
