@@ -1,4 +1,23 @@
 Yeodrop: a yeoman package to install paradrop
 
 npm install Yeoman-paradrop
-yo paradrop -> generate file
+yo paradrop -> generate file(s)
+
+What's generated?
+	Dockerfile
+	config.yaml
+	default frontend <---> CLI file
+
+	Options:
+		product name
+		other dependencies
+		frontend
+		repo
+		backend
+		geolocation
+		associated routers
+		networking default:
+			encryption
+			password
+			channel num.
+			etc.
